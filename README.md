@@ -1,4 +1,4 @@
-#Lista de Exercícios: Funções, Null Safety e Controle de Fluxo em Kotlin
+#*Lista de Exercícios: Funções, Null Safety e Controle de Fluxo em Kotlin*
 
 Essas foram questões passadas pelo Prof. Emerson Domingos. Aqui estão elas com enunciado:
 
